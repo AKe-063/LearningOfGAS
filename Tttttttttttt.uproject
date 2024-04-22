@@ -23,7 +23,7 @@
 		},
 		{
 			"Name": "GFur",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c657e6d3d6c9467db3e96c828529841b"
 		},
 		{
@@ -48,6 +48,18 @@
 		},
 		{
 			"Name": "MassGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualCameraCore",
 			"Enabled": true
 		}
 	]
